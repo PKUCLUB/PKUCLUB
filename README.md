@@ -2,30 +2,19 @@
 # PKUCLUB
 <img src="https://github.com/PKUCLUB/PKUCLUB/blob/main/pkuclub.png" alt="avatar" width="100" height="100">
 
-## About Me
-
-AI 产品经理。
-
-Obsidian 用户。
-
-贯彻卡片笔记法与分享即学习。
+## About US
+未名俱乐部是部分北大清华校友发起的自由交流平台。
 
 ## Digital Life
 
 Twitter [@oran_ge](https://twitter.com/oran_ge) 
 
-Blog [notion.orangesai.com](https://notion.orangesai.com)
-
 Telegram  [t.me/aigcnote](https://t.me/aigcnote) 
-
-Newsletter [orangeai.substack.com](https://orangeai.substack.com/)
-
-即刻 [orange.ai](https://web.okjike.com/u/FCEA29D3-5BB5-4174-B7A9-1DEE77CEDC46)
 
 Github [orange2ai](https://github.com/orange2ai) 
 
 ## Contact
 
-Email <a href="mailto:i@orangesai.com">i@orangesai.com</a>
+Email <a href="mailto:pkuclub@pkuclub.cn">pkuclub@pkuclub.cn</a>
 
 Telegram [@orange_ai](https://t.me/orange_ai)
