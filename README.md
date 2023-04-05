@@ -1,6 +1,6 @@
 
 # PKUCLUB
-<img src="https://raw.githubusercontent.com/PKUCLUB/PKUCLUB/main/pkuclub.png" alt="avatar" width="100" height="100">
+<img src="https://github.com/PKUCLUB/PKUCLUB/blob/main/pkuclub.png" alt="avatar" width="100" height="100">
 
 ## About Me
 
